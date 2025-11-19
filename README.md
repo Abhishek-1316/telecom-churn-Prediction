@@ -5,7 +5,6 @@ A machine learning project that predicts whether a telecom customer will churn (
 Features
 	•	Data preprocessing and feature engineering
 	•	Model training using algorithms like Logistic Regression, Random Forest, etc.
-	•	Evaluation with accuracy, precision, recall, and F1-score
 	•	Pre-trained model (customer_churn_model.pkl) and encoders (encoders.pkl)
 	•	Simple Flask web app (app.py) for live churn prediction
 
