@@ -10,6 +10,6 @@ Features
 
 How to Run
 	1.	Clone the repo
-	2.	Install dependencies
-	3.	Run app.py → open in browser (http://localhost:5000)
+	2.	Install dependencies ( if required, command : pip install pandas numpy scikit-learn flask joblib )
+	3.	Run app.py ( command: streamlit run app.py) → open in browser (http://localhost:5000)
 	4.	Enter customer details to get churn prediction
