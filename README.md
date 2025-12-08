@@ -13,3 +13,7 @@ How to Run
 	2.	Install dependencies ( if required, command : pip install pandas numpy scikit-learn flask joblib )
 	3.	Run app.py ( command: streamlit run app.py) → open in browser (http://localhost:5000)
 	4.	Enter customer details to get churn prediction
+
+
+Live-Demo (Streamlit Deployed)
+     Link: https://telecom-churn-prediction-0.streamlit.app/
